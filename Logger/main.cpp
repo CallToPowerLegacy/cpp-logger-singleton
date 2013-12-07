@@ -22,7 +22,7 @@ using std::string;
 int main (int argc, const char * argv[])
 {
     Logger::instance()->newLine(2);
-    Logger::instance()->log("Logger " + string(VERSION) + " by Denis Meyer - CallToPower Software");
+    Logger::instance()->log("Logger " + string(VERSION) + " by Denis Meyer");
     Logger::instance()->newLine(2);
     
     Logger::instance()->log("test suite");

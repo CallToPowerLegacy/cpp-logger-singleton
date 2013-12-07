@@ -1,20 +1,17 @@
 C++ Logger Singleton
---------------------
+====================
 
-Author
-------
-Denis Meyer
+A logger class written in C++.
 
-Homepage
---------
-https://sites.google.com/site/calltopowersoftware/software
+Copyright 2011-2013 Denis Meyer (CallToPower). All rights reserved.
 
-Copyright
----------
-Copyright 2011 Denis Meyer (CallToPower). All rights reserved.
+## Example
+See "Logger/main.cpp"
 
-License
--------
+## Version
+0.1.3
+
+## License
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
