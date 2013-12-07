@@ -9,7 +9,7 @@ Copyright 2011-2013 Denis Meyer (CallToPower). All rights reserved.
 See "Logger/main.cpp"
 
 ## Version
-0.1.3
+1.0.0
 
 ## License
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

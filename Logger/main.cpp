@@ -1,9 +1,9 @@
 /**
  * Logger (Singleton) test
  * @description Logger test suite
- * @author Denis Meyer - CallToPower Software
+ * @author Denis Meyer
  * @website https://sites.google.com/site/calltopowersoftware/software
- * @version 0.1.3.2
+ * @version 1.0.0
  * @created 3/16/11
  * @file main.cpp
  */
@@ -11,7 +11,7 @@
 #include <string>
 #include "include/Logger.h"
 
-#define VERSION "v0.1.3"
+#define VERSION "v1.0.0"
 
 using std::string;
 

@@ -1,9 +1,9 @@
 /**
  * Logger (Singleton) Source
  * @description a Logger implementing the Singleton pattern
- * @author Denis Meyer - CallToPower Software
+ * @author Denis Meyer
  * @website https://sites.google.com/site/calltopowersoftware/software
- * @version 0.1.3.2
+ * @version 1.0.0
  * @created 3/16/11
  * @file Logger.cpp
  */

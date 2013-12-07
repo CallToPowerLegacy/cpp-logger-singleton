@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA3198C0-2306-4D9D-A74A-9A75C2BFFC0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Logger</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>21D39524-A4B6-4A31-BCF9-1024C8B56E82</key>
+		<string>https://github.com/CallToPower/cpp-logger-singleton.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Logger.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>21D39524-A4B6-4A31-BCF9-1024C8B56E82</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CallToPower/cpp-logger-singleton.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>21D39524-A4B6-4A31-BCF9-1024C8B56E82</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>21D39524-A4B6-4A31-BCF9-1024C8B56E82</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cpp-logger-singleton</string>
+		</dict>
+	</array>
+</dict>
+</plist>
