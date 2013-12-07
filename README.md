@@ -3,7 +3,10 @@ C++ Logger Singleton
 
 A logger class written in C++.
 
-Copyright 2011-2013 Denis Meyer (CallToPower). All rights reserved.
+Copyright 2013 Denis Meyer (for more information visit [1])
+
+---
+[1] http://choosealicense.com/licenses [No License]
 
 ## Example
 See "Logger/main.cpp"
